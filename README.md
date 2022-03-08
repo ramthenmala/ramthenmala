@@ -1,4 +1,4 @@
-### Hi there, I'm <a href="#" target="_blank">Ram Kumar</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm <a href="#" target="_blank">Ram</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://github.com/ramthenmala/github-profile-trophy">
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=ramthenmala&column=8&margin-h=15&theme=flat&no-frame=true"/>
