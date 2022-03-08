@@ -9,6 +9,14 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ramthenmala/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ramthenmala)
 
+
+📈 **My GitHub Stats:**
+
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramthenmala&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramthenmala&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
+
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=ramthenmala)
 
 I am a full-stack software engineer and writer. I love programming, writing, speaking and traveling.
@@ -38,9 +46,3 @@ Other        0 secs          ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
-📈 **My GitHub Stats:**
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramthenmala&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramthenmala&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
-</p>
