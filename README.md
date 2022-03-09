@@ -36,6 +36,16 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
+
+```text
+From: 02 March 2022 - To: 09 March 2022
+
+TypeScript   2 hrs 41 mins   ██████████████████████▓░░   91.20 %
+JavaScript   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+JSON         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
+Other        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+```
+
 <!--END_SECTION:waka-->
 
 
