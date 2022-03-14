@@ -4,6 +4,8 @@
 <img width=800 src="https://github-profile-trophy.vercel.app/?username=ramthenmala&column=8&margin-h=15&theme=flat&no-frame=true"/>
 </a>
 
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,nodejs,kubernetes,docker,electron,express,emotion,figma,git,materialui,mongodb,nextjs,redis,)](https://skillicons.dev)
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ramdevengineer/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ramthenmala)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ramthenmala/)
