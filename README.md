@@ -34,7 +34,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 </br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,nodejs,electron,express,emotion,figma,git,materialui,mongodb,nextjs,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react,redux,ts,nodejs,electron,express,emotion,figma,git,materialui,mongodb,nextjs,)](https://skillicons.dev)
 
 </br>
 📊 **This Week I Spent My Time On:**
