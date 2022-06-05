@@ -43,7 +43,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 May 2022 - To: 03 June 2022
+From: 05 May 2022 - To: 04 June 2022
 
 JavaScript   4 hrs 2 mins    █████████████████████░░░░   83.46 %
 HTML         19 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
