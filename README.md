@@ -43,14 +43,14 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 June 2022 - To: 12 July 2022
+From: 13 June 2022 - To: 13 July 2022
 
-JavaScript   14 hrs 54 mins  ███████████████▓░░░░░░░░░   63.32 %
-JSON         2 hrs 54 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.36 %
-Markdown     2 hrs 24 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.20 %
-TypeScript   2 hrs 11 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.28 %
-HTML         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-Git Config   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
+JavaScript   15 hrs 6 mins   ████████████████░░░░░░░░░   63.65 %
+JSON         2 hrs 54 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.25 %
+Markdown     2 hrs 24 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 %
+TypeScript   2 hrs 11 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.20 %
+HTML         24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+Git Config   20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
 ```
 
 <!--END_SECTION:waka-->
