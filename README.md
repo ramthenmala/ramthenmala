@@ -23,7 +23,7 @@ I am a full-stack software engineer and writer. I love programming, writing, spe
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/4328468/157245666-f4dd5472-5b11-4727-baaf-69e90e372b69.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/4328468/157245666-f4dd5472-5b11-4727-baaf-69e90e372b69.gif?raw=true" width="300" />
 
 **Talking about Personal Stuffs:**
 
