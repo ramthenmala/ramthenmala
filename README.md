@@ -34,11 +34,6 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 
 </br>
 
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=ramthenmala&custom_title=Ram's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,react,redux,ts,nodejs,electron,express,emotion,figma,git,materialui,mongodb,nextjs,)](https://skillicons.dev)
-
-</br>
-
 📊 **This Week I Spent My Time On** 
 <!--START_SECTION:waka-->
 
