@@ -26,11 +26,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 August 2022 - To: 18 September 2022
-
-Markdown     0 secs          ██████████████████▒░░░░░░   73.08 %
-JavaScript   0 secs          █████▒░░░░░░░░░░░░░░░░░░░   20.85 %
-Git Config   0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
