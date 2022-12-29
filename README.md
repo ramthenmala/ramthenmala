@@ -28,6 +28,8 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 ```text
 From: 28 November 2022 - To: 28 December 2022
 
+Total Time: 9 hrs 26 mins
+
 JavaScript   4 hrs 45 mins   ████████████▒░░░░░░░░░░░░   49.32 %
 TypeScript   2 hrs 29 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.78 %
 JSON         48 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 %
