@@ -26,16 +26,16 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 March 2022 - To: 02 February 2023
+From: 07 March 2022 - To: 03 February 2023
 
-Total Time: 217 hrs 43 mins
+Total Time: 218 hrs 11 mins
 
-TypeScript       105 hrs 38 mins ████████████░░░░░░░░░░░░░   48.01 %
-JavaScript       81 hrs 44 mins  █████████▒░░░░░░░░░░░░░░░   37.15 %
-JSON             14 hrs 22 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.53 %
+TypeScript       105 hrs 51 mins ████████████░░░░░░░░░░░░░   48.00 %
+JavaScript       81 hrs 44 mins  █████████▒░░░░░░░░░░░░░░░   37.07 %
+JSON             14 hrs 28 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
 Markdown         5 hrs 52 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
 CSS              2 hrs 51 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 %
-HTML             2 hrs 30 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.14 %
+HTML             2 hrs 39 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
 ```
 
 <!--END_SECTION:waka-->
