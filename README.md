@@ -25,8 +25,8 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 📊 **This Week I Spent My Time On** 
 <!--START_SECTION:waka-->
 
-```text
-From: 07 March 2022 - To: 31 May 2023
+```txt
+From: 07 March 2022 - To: 01 June 2023
 
 Total Time: 228 hrs 12 mins
 
