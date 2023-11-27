@@ -26,7 +26,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 March 2022 - To: 24 November 2023
+From: 07 March 2022 - To: 25 November 2023
 
 Total Time: 250 hrs 59 mins
 
