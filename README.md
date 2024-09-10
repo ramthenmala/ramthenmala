@@ -9,14 +9,9 @@
 
 I am a seasoned full-stack software engineer with extensive experience in developing and architecting scalable applications. My passion lies in creating innovative solutions that drive positive change and enhance user experiences.
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/4328468/157245666-f4dd5472-5b11-4727-baaf-69e90e372b69.gif?raw=true" width="300" />
-
 **About Me:**
 
 - 👨‍💻 Currently leading projects that leverage cutting-edge technologies to solve complex problems.
-- 🚀 Actively enhancing my expertise in Data Structures and Algorithms through [LeetCode](https://leetcode.com/ramthenmala) and other platforms.
-- 💬 Open to discussions about technology, software engineering best practices, and career advice.
-- 📫 Feel free to reach out to me at [devramthenmala@gmail.com](mailto:devramthenmala@gmail.com) for collaboration or inquiries.
 
 **Tech Stack:**
 
