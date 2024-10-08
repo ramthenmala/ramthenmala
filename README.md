@@ -33,15 +33,15 @@ Thank you for visiting my profile. Let's connect and explore how we can create i
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 March 2022 - To: 05 October 2024
+From: 07 March 2022 - To: 06 October 2024
 
-Total Time: 308 hrs 17 mins
+Total Time: 313 hrs 49 mins
 
-TypeScript       175 hrs 49 mins ██████████████░░░░░░░░░░░   56.13 %
-JavaScript       94 hrs 25 mins  ███████▓░░░░░░░░░░░░░░░░░   30.14 %
-JSON             17 hrs 29 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
-Markdown         6 hrs 10 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
-Other            4 hrs 57 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+TypeScript       180 hrs 42 mins ██████████████▒░░░░░░░░░░   56.69 %
+JavaScript       94 hrs 30 mins  ███████▒░░░░░░░░░░░░░░░░░   29.65 %
+JSON             17 hrs 33 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.51 %
+Markdown         6 hrs 10 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+Other            4 hrs 57 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
 ```
 
 <!--END_SECTION:waka-->
