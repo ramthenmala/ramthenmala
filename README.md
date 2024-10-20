@@ -33,7 +33,7 @@ Thank you for visiting my profile. Let's connect and explore how we can create i
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 March 2022 - To: 17 October 2024
+From: 07 March 2022 - To: 18 October 2024
 
 Total Time: 318 hrs 3 mins
 
