@@ -29,7 +29,7 @@ I am a seasoned full-stack software engineer with extensive experience in develo
 Thank you for visiting my profile. Let's connect and explore how we can create impactful solutions together!
 
 </br>
-📊 **This Week I Spent My Time On** 
+📊 **I Spent My Time On** 
 <!--START_SECTION:waka-->
 
 ```txt
