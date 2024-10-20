@@ -32,6 +32,33 @@ Thank you for visiting my profile. Let's connect and explore how we can create i
 
 ### 🛠 Tech Stack Icons
 
+### Welcome to my GitHub profile!
+
+I am a seasoned full-stack software engineer with extensive experience in developing and architecting scalable applications. My passion lies in creating innovative solutions that drive positive change and enhance user experiences.
+
+**About Me:**
+
+- 👨‍💻 Currently leading projects that leverage cutting-edge technologies to solve complex problems.
+
+**Tech Stack:**
+
+- **Languages**: TypeScript, JavaScript
+- **Frameworks**: React, Next.js, Node.js
+- **Tools**: Docker, Kubernetes, GCP
+- **Databases**: PostgreSQL, MongoDB
+
+**Personal Interests:**
+
+- Writing technical content and sharing knowledge with the community.
+- Speaking at conferences and contributing to open-source projects.
+- Exploring new technologies and staying up-to-date with industry trends.
+
+Thank you for visiting my profile. Let's connect and explore how we can create impactful solutions together!
+
+---
+
+### 🛠 Tech Stack Icons
+
 <p align="left">
   <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
@@ -49,8 +76,9 @@ Thank you for visiting my profile. Let's connect and explore how we can create i
   
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
 </p>
+
 
 
 </br>
