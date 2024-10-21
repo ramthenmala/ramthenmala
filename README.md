@@ -49,6 +49,8 @@ I am a seasoned full-stack software engineer with extensive experience in develo
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramthenmala&layout=compact&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ramthenmala&theme=dark)](https://git.io/streak-stats)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ramthenmala&theme=dracula)
 
 
 Thank you for visiting my profile. Let's connect and explore how we can create impactful solutions together!
