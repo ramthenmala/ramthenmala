@@ -12,6 +12,9 @@ I am a seasoned full-stack software engineer with extensive experience in develo
 **About Me:**
 
 - 👨‍💻 Currently leading projects that leverage cutting-edge technologies to solve complex problems.
+- 🌍 I'm based in Halifax, UK
+- ✉️  You can contact me at devramthenmala@gmail.com
+- 🧠 I'm learning RemixJs
 
 **Tech Stack:**
 
