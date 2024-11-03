@@ -51,8 +51,8 @@ I am a seasoned full-stack software engineer with extensive experience in develo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramthenmala&layout=compact&theme=radical)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ramthenmala&theme=dark)](https://git.io/streak-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramthenmala&layout=compact&theme=radical)
 
 
 Thank you for visiting my profile. Let's connect and explore how we can create impactful solutions together!
