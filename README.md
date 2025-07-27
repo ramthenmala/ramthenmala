@@ -62,7 +62,7 @@ Thank you for visiting my profile. Let's connect and explore how we can create i
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 March 2022 - To: 24 July 2025
+From: 07 March 2022 - To: 25 July 2025
 
 Total Time: 389 hrs 40 mins
 
