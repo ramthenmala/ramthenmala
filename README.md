@@ -1,64 +1,69 @@
-### Hi there, I'm <a href="#" target="_blank">Ram</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25">
+### Hi there, I'm Ram <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25">
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ramdevengineer/)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-4c1?style=flat-square&logo=vercel&logoColor=white)](https://devram.vercel.app)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/ramthenmala)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ramthenmala/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ramthenmala)
 
-### Welcome to my GitHub profile!
+**Lead Software Engineer / Solution Architect** — 14+ years building enterprise web platforms across government, banking, and retail eCommerce.
 
-I am a seasoned full-stack software engineer with extensive experience in developing and architecting scalable applications. My passion lies in creating innovative solutions that drive positive change and enhance user experiences.
+I architect systems and stay in the code. Currently working on B2B commerce on Optimizely Configured Commerce and an internal generative-AI product visualization platform. Previously led architecture on a Saudi Vision 2030 government investment platform with a team of 8–12 engineers, and delivered regulated platforms for Lloyds Banking Group and AXA UK.
 
-**About Me:**
+- 🏗️ Solution architecture, microservices, micro-frontends, Nx monorepos
+- 🤖 Applied AI — RAG pipelines, multimodal generation, prompt engineering and evaluation
+- 🛒 B2B commerce — Optimizely Configured Commerce, DAM integration at ~900K-product catalogue scale
+- 🌍 Based in Trivandrum, India — open to remote
+- ✉️ [devramengineer@gmail.com](mailto:devramengineer@gmail.com)
+- ✍️ I write about React, TypeScript, and architecture at [devram.vercel.app/blog](https://devram.vercel.app/blog)
 
-- 👨‍💻 Currently leading projects that leverage cutting-edge technologies to solve complex problems.
-- 🌍 I'm based in Halifax, UK
-- ✉️  You can contact me at devramthenmala@gmail.com
-- 🧠 I'm learning RemixJs
+---
 
-**Tech Stack:**
+### What I've been building
 
-- **Languages**: TypeScript, JavaScript
-- **Frameworks**: React, Next.js, Node.js
-- **Tools**: Docker, Kubernetes, GCP
-- **Databases**: PostgreSQL, MongoDB
+**Generative AI product visualization** — a pipeline that turns product tech packs into photorealistic renders: document analysis and spec extraction, prompt-driven multi-angle generation, an automated quality-audit loop that verifies each render against its source, and batch production with human-in-the-loop review. Cut end-to-end turnaround from ~3 weeks to ~3 days.
 
-**Personal Interests:**
+**AI search and recommendations** — RAG over Azure OpenAI with vector embeddings, semantic ranking, and structured filtering; improved relevance scores by 40%.
 
-- Writing technical content and sharing knowledge with the community.
-- Speaking at conferences and contributing to open-source projects.
-- Exploring new technologies and staying up-to-date with industry trends.
+**Micro-frontend architecture** — re-architected a UK bank's mortgage platform into modular micro-frontends, cutting application load times by 50%.
 
-### 🛠 Tech Stack Icons
+---
+
+### Tech
+
+**Languages**  TypeScript · JavaScript · Python
+
+**Frontend**  React · Next.js · Remix · Vite · Redux · Zustand · Tailwind CSS · Radix UI · shadcn/ui
+
+**Backend**  Node.js · NestJS · Express · PostgreSQL · Cosmos DB · Redis
+
+**AI**  Azure OpenAI · Google Gemini · RAG architectures · vector search · prompt engineering
+
+**Cloud & Infra**  Azure · GCP · Docker · Kubernetes · Jenkins · GitHub Actions
+
+**Quality**  Jest · React Testing Library · SonarQube · Prometheus · Grafana · Splunk
 
 <p align="left">
-  <!-- Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  
-  <!-- Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
-  
-  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" title="NestJS" alt="NestJS" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" title="Google Cloud Platform" alt="Google Cloud Platform" width="40" height="40"/>&nbsp;
-  
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40"/>
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ramthenmala&theme=dark)](https://git.io/streak-stats)
+---
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramthenmala&layout=compact&theme=radical)
 
-
-Thank you for visiting my profile. Let's connect and explore how we can create impactful solutions together!
-
-</br>
-📊 **I Spent My Time On** 
+📊 **Where my time goes**
 <!--START_SECTION:waka-->
 
 ```txt
@@ -71,8 +76,3 @@ JavaScript                 102 hrs 28 mins       █████▓░░░░�
 JSON                       37 hrs 2 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 %
 Markdown                   13 hrs 5 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
 Bash                       10 hrs 43 mins        ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
-```
-
-<!--END_SECTION:waka-->
-
-
